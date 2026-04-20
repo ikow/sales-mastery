@@ -28,3 +28,21 @@ has_children: true
 12. [Appendix A](challenger-sale-ch12)
 13. [Appendix B](challenger-sale-ch13)
 14. [Appendix C](challenger-sale-ch14)
+
+
+## 中文翻译
+
+- [Foreword 中文](challenger-sale-ch01-cn)
+- [Ch 1: The Evolving Journey of Solution Selling 中文](challenger-sale-ch02-cn)
+- [Ch 2: The Challenger (Part 1) - A New Model 中文](challenger-sale-ch03-cn)
+- [Ch 3: The Challenger (Part 2) - Exporting the Model 中文](challenger-sale-ch04-cn)
+- [Ch 4: Teaching for Differentiation (Part 1) 中文](challenger-sale-ch05-cn)
+- [Ch 5: Teaching for Differentiation (Part 2) 中文](challenger-sale-ch06-cn)
+- [Ch 6: Tailoring for Resonance 中文](challenger-sale-ch07-cn)
+- [Ch 7: Taking Control of the Sale 中文](challenger-sale-ch08-cn)
+- [Ch 8: The Manager and the Challenger Selling Model 中文](challenger-sale-ch09-cn)
+- [Ch 9: Implementation Lessons from Early Adopters 中文](challenger-sale-ch10-cn)
+- [Afterword 中文](challenger-sale-ch11-cn)
+- [Appendix A 中文](challenger-sale-ch12-cn)
+- [Appendix B 中文](challenger-sale-ch13-cn)
+- [Appendix C 中文](challenger-sale-ch14-cn)

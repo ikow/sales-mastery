@@ -19,3 +19,13 @@ has_children: true
 3. [Section III: Value - Create Your Offer](100m-offers-ch03)
 4. [Section IV: Enhancing Your Offer](100m-offers-ch04)
 5. [Section V: Execution](100m-offers-ch05)
+
+
+## 中文翻译
+
+- [Front Matter 中文](100m-offers-ch00-cn)
+- [Section I: How We Got Here 中文](100m-offers-ch01-cn)
+- [Section II: Pricing 中文](100m-offers-ch02-cn)
+- [Section III: Value - Create Your Offer 中文](100m-offers-ch03-cn)
+- [Section IV: Enhancing Your Offer 中文](100m-offers-ch04-cn)
+- [Section V: Execution 中文](100m-offers-ch05-cn)

@@ -24,3 +24,9 @@ has_children: true
 8. [Guarantee Execution](never-split-ch08)
 9. [Bargain Hard](never-split-ch09)
 10. [Find the Black Swan](never-split-ch10)
+
+
+## 中文翻译
+
+- [The New Rules 中文](never-split-ch01-cn)
+- [Be a Mirror 中文](never-split-ch02-cn)

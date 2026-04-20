@@ -23,3 +23,8 @@ has_children: true
 7. [Ch 5: Giving Benefits in Major Sales](spin-selling-ch07)
 8. [Ch 7: Preliminaries - Opening the Call](spin-selling-ch08)
 9. [Ch 8: Turning Theory into Practice](spin-selling-ch09)
+
+
+## 中文翻译
+
+- [Preface 中文](spin-selling-ch02-cn)
