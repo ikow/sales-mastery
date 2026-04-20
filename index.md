@@ -10,12 +10,12 @@ nav_order: 1
 
 ## 📚 核心书单
 
-| 书名 | 核心价值 | 适用场景 |
-|------|---------|---------|
-| [SPIN Selling](books/spin-selling) | 用提问引导客户说出需求 | 高客单价咨询/B2B |
-| [Never Split the Difference](books/never-split-the-difference) | FBI 谈判术，tactical empathy | 所有谈判场景 |
-| [The Challenger Sale](books/the-challenger-sale) | 用洞察力引导客户 | 专业服务/咨询 |
-| [$100M Offers](books/100m-offers) | 打造无法拒绝的 offer | 定价/包装/转化 |
+| 书名 | 精华笔记 | 英文原文 | 中文翻译 |
+|------|---------|---------|---------|
+| SPIN Selling | [笔记](books/spin-selling) | [原文](fulltext/spin-selling-en) | [中文](fulltext/spin-selling-cn) |
+| Never Split the Difference | [笔记](books/never-split-the-difference) | [原文](fulltext/never-split-en) | [中文](fulltext/never-split-cn) |
+| The Challenger Sale | [笔记](books/the-challenger-sale) | [原文](fulltext/challenger-sale-en) | [中文](fulltext/challenger-sale-cn) |
+| $100M Offers | [笔记](books/100m-offers) | [原文](fulltext/100m-offers-en) | [中文](fulltext/100m-offers-cn) |
 
 ## 🔧 实战工具
 
