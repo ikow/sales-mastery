@@ -12,10 +12,10 @@ nav_order: 1
 
 | 书名 | 精华笔记 | 英文原文 | 中文翻译 |
 |------|---------|---------|---------|
-| SPIN Selling | [笔记](books/spin-selling) | [原文](fulltext/spin-selling-en) | [中文](fulltext/spin-selling-cn) |
-| Never Split the Difference | [笔记](books/never-split-the-difference) | [原文](fulltext/never-split-en) | [中文](fulltext/never-split-cn) |
-| The Challenger Sale | [笔记](books/the-challenger-sale) | [原文](fulltext/challenger-sale-en) | [中文](fulltext/challenger-sale-cn) |
-| $100M Offers | [笔记](books/100m-offers) | [原文](fulltext/100m-offers-en) | [中文](fulltext/100m-offers-cn) |
+| SPIN Selling | [笔记](books/spin-selling) | [原文](fulltext/spin-selling-en) | [中文](fulltext/spin-selling-en#中文翻译) ✅ |
+| Never Split the Difference | [笔记](books/never-split-the-difference) | [原文](fulltext/never-split-en) | [中文](fulltext/never-split-en#中文翻译) ✅ |
+| The Challenger Sale | [笔记](books/the-challenger-sale) | [原文](fulltext/challenger-sale-en) | [中文](fulltext/challenger-sale-en#中文翻译) ✅ |
+| $100M Offers | [笔记](books/100m-offers) | [原文](fulltext/100m-offers-en) | [中文](fulltext/100m-offers-en#中文翻译) ✅ |
 
 ## 🔧 实战工具
 

@@ -30,3 +30,11 @@ has_children: true
 
 - [The New Rules 中文](never-split-ch01-cn)
 - [Be a Mirror 中文](never-split-ch02-cn)
+- [Don't Feel Their Pain, Label It 中文](never-split-ch03-cn)
+- [Beware Yes - Master No 中文](never-split-ch04-cn)
+- [Trigger the Two Words That Transform Any Negotiation 中文](never-split-ch05-cn)
+- [Bend Their Reality 中文](never-split-ch06-cn)
+- [Create the Illusion of Control 中文](never-split-ch07-cn)
+- [Guarantee Execution 中文](never-split-ch08-cn)
+- [Bargain Hard 中文](never-split-ch09-cn)
+- [Find the Black Swan 中文](never-split-ch10-cn)
