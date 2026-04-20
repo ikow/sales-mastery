@@ -1,0 +1,13 @@
+title: 销售大师修炼手册
+description: 系统学习销售技能的 Knowledge Base
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
+nav_sort: case_insensitive
+heading_anchors: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/ikow/sales-mastery"
+
+footer_content: "🦞 边学边卖，边卖边学"
