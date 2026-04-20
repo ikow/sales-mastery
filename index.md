@@ -20,7 +20,6 @@ nav_order: 1
 ## 🔧 实战工具
 
 - [每日训练 Checklist](daily/checklist)
-- [安全咨询销售 Playbook](playbook/security-consulting)
 - [销售话术模板](playbook/scripts)
 
 ## 📈 12 周学习路径
